@@ -2,23 +2,19 @@
 
 Tekken Tag Tournament 2 on Windows.
 
-## Downloads
+- **[Download the launcher — 0.16.18](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-PC-Launcher-0.16.18.zip)**
+- **[Download the portable benchmark](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-Benchmark-Portable.zip)** — works across game versions.
+- [Setup and launcher guide](SETUP.md)
+- [Changelog](CHANGELOG.md)
 
-- **[Download the launcher — 0.16.17](https://github.com/adageshi/tag2-pc/releases/download/v0.16.17/TAG2-PC-0.16.17.zip)**
-- **[Download the portable benchmark](TAG2-Benchmark-Portable.zip)** — works across game versions.
-- **[Setup and launcher guide](SETUP.md)**
-- [Release notes](https://github.com/adageshi/tag2-pc/releases/tag/v0.16.17)
+Extract the complete launcher ZIP to a local fixed NTFS drive, run **Tag2Launcher.exe**, and choose **Install update** to download the game-building components. You need your own original game and matching Xbox 360 Title Update. Both download ZIPs are stored directly in this repository.
 
-Extract the complete launcher ZIP before running `Tag2Launcher.exe`. You need your own original game and matching Xbox 360 Title Update.
+Already installed? Use **Install update** in your existing launcher. Supported engines are patched automatically; keep the same folder to preserve your account and saves.
 
-**Slow motion or stutters?** Try **Play & settings → Graphics... → Resolve readbacks → None - Experimental**, save, then restart the game. This helped a tester with persistent slowdown, but can cause missing colors, textures or effects. See the [graphics guide](SETUP.md#slow-motion-or-stutters).
+**Slow motion or stutters?** Try **Graphics... → Resolve readbacks → None - Experimental**, save and restart. This helped a tester, but may cause missing colors, textures or effects. Return to Full if that happens. See the [graphics guide](SETUP.md#slow-motion-or-stutters).
 
-The benchmark ZIP is stored directly in this repository. The full launcher ZIP is hosted in Releases because its size exceeds GitHub's regular repository file limit.
+Report problems through [Issues](https://github.com/adageshi/tag2-pc/issues), with your version and reproduction steps. Share diagnostic ZIPs privately; do not post account credentials publicly.
 
-## Feedback
-
-Report problems through [GitHub Issues](https://github.com/adageshi/tag2-pc/issues). Include your launcher version and a short description. Do not post account tokens or private logs publicly.
-
-In active development. Online stability, rendering and performance are still being tested. Development sources and internal optimizations remain private.
+Test release. Online stability, rendering and hardware performance are still being qualified. Development sources and internal input work remain private.
 
 Unofficial fan project. Not affiliated with or endorsed by Bandai Namco.
