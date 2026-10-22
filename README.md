@@ -2,7 +2,7 @@
 
 Tekken Tag Tournament 2 on Windows.
 
-- **[Download the launcher — 0.16.18](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-PC-Launcher-0.16.18.zip)**
+- **[Download the launcher — 0.16.19](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-PC-Launcher-0.16.19.zip)**
 - **[Download the portable benchmark](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-Benchmark-Portable.zip)** — works across game versions.
 - [Setup and launcher guide](SETUP.md)
 - [Changelog](CHANGELOG.md)

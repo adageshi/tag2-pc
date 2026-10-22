@@ -2,7 +2,7 @@
 
 ## 1. Download and extract
 
-1. [Download the TAG2 PC launcher 0.16.18](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-PC-Launcher-0.16.18.zip).
+1. [Download the TAG2 PC launcher 0.16.19](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-PC-Launcher-0.16.19.zip).
 2. Extract the **entire ZIP** into a folder on a local, fixed **NTFS** drive. Do not run the launcher inside the ZIP. exFAT is not supported by the updater.
 3. Keep all extracted files and folders together, then run **Tag2Launcher.exe**.
 4. On a fresh installation, choose **Install update** and wait for the remaining components to download. The launcher restarts when installation is complete. Internet access is required for this first setup.
@@ -79,3 +79,8 @@ The benchmark works across game versions. It does not measure physical button-to
 - **Missing colors after a tweak:** restore **Resolve readbacks → Full - Default** and restart.
 - **Online freeze or disconnection:** update both clients, note the point where it froze, and collect logs from both players. Online stability remains under testing.
 - **Other problems:** use **Collect logs** and report your version and reproduction steps through [Issues](https://github.com/adageshi/tag2-pc/issues), without posting private account data.
+
+
+## Experimental graphics options
+
+Direct3D 12 and Full readbacks remain the defaults. Vulkan and Full - Grouped readbacks are experimental. Vulkan has known visual errors, and grouped readbacks apply to Direct3D 12 only. Compare with the default settings if colors, textures or effects change. Settings apply on the next game launch.

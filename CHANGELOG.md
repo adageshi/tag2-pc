@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.16.19 / b35
+
+- Fixed a Ranked crash after character selection.
+- Fixed an online disconnect caused by a temporary backlog on a slower PC.
+- Merged performance, stability and music playback improvements.
+- Connected the launcher nickname to the game’s local profile display.
+- Added experimental Vulkan and grouped Direct3D 12 readback options. Direct3D 12 remains the default.
+- Increased account capacity and preserved automatic engine patching.
+
+Test release: complete online matches and performance across different PCs still need further testing. Vulkan has known visual issues. The separate unresponsive “Begin Search” report remains under investigation.
+
 ## 0.16.18 / b34
 
 - Compact vertical Practice input history with actual button/direction states and frame counts; hides the native bottom history.
