@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.16.21 / b37
+
+- Online: fixes for match-start synchronization and search retries.
+- Practice: save your position with R3 and return with L3. Use Select + R3/L3 if those buttons are already assigned.
+- CPU training: choose a move or recorded response to play after a hit or block.
+- Frame-data refresh fixes and a clearer input history.
+- Updated shader cache for the scenes tested.
+- Compatible installed games now receive automatic patches without a full rebuild.
+
+**One-time setup:** install the new launcher in your existing folder to keep your account, saves and settings.
+
 ## 0.16.20 / b36
 
 - Fixed a startup crash at 2x/3x when using Full - Grouped readbacks. The fix preserves the selected rendering scale and keeps grouped readbacks available.
