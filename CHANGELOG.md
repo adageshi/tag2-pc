@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.16.20 / b36
+
+- Fixed a startup crash at 2x/3x when using Full - Grouped readbacks. The fix preserves the selected rendering scale and keeps grouped readbacks available.
+- Compatible installations update automatically without a full rebuild.
+
 ## 0.16.19 / b35
 
 - Fixed a Ranked crash after character selection.

@@ -1,2 +1,2 @@
-cd8202b1cb388d202f7689170c248f6fecd3b8c2ca7e68fa4a03af55e20068bd  TAG2-PC-Launcher-0.16.19.zip
+0b62d47d2455cdfc491b28e620c3b1a3b4b871bc09bab58bd5eae544b0ef80e4  TAG2-PC-Launcher-0.16.20.zip
 f84c27f9fd6be0e7bf550b2cce047b12f919088b12672d0010e6c9be3c4a0fdb  TAG2-Benchmark-Portable.zip

@@ -2,7 +2,7 @@
 
 ## 1. Download and extract
 
-1. [Download the TAG2 PC launcher 0.16.19](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-PC-Launcher-0.16.19.zip).
+1. [Download the TAG2 PC launcher 0.16.20](https://github.com/adageshi/tag2-pc/raw/refs/heads/main/TAG2-PC-Launcher-0.16.20.zip).
 2. Extract the **entire ZIP** into a folder on a local, fixed **NTFS** drive. Do not run the launcher inside the ZIP. exFAT is not supported by the updater.
 3. Keep all extracted files and folders together, then run **Tag2Launcher.exe**.
 4. On a fresh installation, choose **Install update** and wait for the remaining components to download. The launcher restarts when installation is complete. Internet access is required for this first setup.
